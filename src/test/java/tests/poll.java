@@ -7,5 +7,5 @@ public class poll {
 
 
 
-    //From intellij
+
 }
